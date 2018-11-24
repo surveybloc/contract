@@ -1,0 +1,5 @@
+test/
+build/
+migrations/1541869829_deploy.js
+node_modules/
+truffle.js
